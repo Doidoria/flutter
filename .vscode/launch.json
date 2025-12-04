@@ -1,0 +1,108 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ch00_init",
+            "cwd": "ch00_init",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ch00_init (profile mode)",
+            "cwd": "ch00_init",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "ch00_init (release mode)",
+            "cwd": "ch00_init",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "ch01_dart",
+            "cwd": "ch01_dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ch01_dart (profile mode)",
+            "cwd": "ch01_dart",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "ch01_dart (release mode)",
+            "cwd": "ch01_dart",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "ch02_ui",
+            "cwd": "ch02_ui",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ch02_ui (profile mode)",
+            "cwd": "ch02_ui",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "ch02_ui (release mode)",
+            "cwd": "ch02_ui",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "ch03_advanced",
+            "cwd": "ch03_advanced",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ch03_advanced (profile mode)",
+            "cwd": "ch03_advanced",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "ch03_advanced (release mode)",
+            "cwd": "ch03_advanced",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "ch04_flutter",
+            "cwd": "ch04_flutter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ch04_flutter (profile mode)",
+            "cwd": "ch04_flutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "ch04_flutter (release mode)",
+            "cwd": "ch04_flutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
